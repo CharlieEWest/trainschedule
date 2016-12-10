@@ -1,0 +1,27 @@
+.jumbotron {
+	background: green;
+	color: white;
+
+}
+th{
+   
+    font-family: 'arial', serif;
+    color: red;
+    
+}
+div.panel-heading { 
+	background-color: green;
+	color: white;
+
+}
+
+
+div.panel.panel-success {
+	background-color: yellow;
+
+}
+label, h3.panel-title{
+	color: red;
+}
+
+
